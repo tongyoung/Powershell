@@ -1,0 +1,1 @@
+2012ScriptingGames folder contains my first attempts at Powershell.

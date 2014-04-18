@@ -1,0 +1,1 @@
+﻿Compare-Object $(Get-ChildItem -path c:\1) $(Get-ChildItem -path c:\2) -PassThru 
